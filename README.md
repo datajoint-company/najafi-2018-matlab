@@ -10,7 +10,6 @@ The original data are available from Cold Spring Harbor Laboratory:  http://repo
 # MATLAB Live Script
 This project demonstrates the use of MATLAB and MATLAB Live Script in lastest Neuroscience studies. Specifically, the project provides guidance and examples for working with neurodata in the [Neurodata Without Border](https://neurodatawithoutborders.github.io) format (NWB 2.0)
 
-Data are first downloaded and converted to NWB 2.0 format, using Python scripts, see description below.
 
 The [Live Script](https://github.com/ttngu207/najafi-2018-matlab/blob/master/najafi_examples_with_matnwb.mlx) provides examples of data querying, conditioning and visualization, with several figures from the paper reproduced. For an interactive session, the Live Script has to be launched with MATLAB. See a PDF version of the script [here](https://github.com/ttngu207/najafi-2018-matlab/blob/master/najafi_examples_with_matnwb.pdf). 
 
