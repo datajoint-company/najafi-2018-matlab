@@ -18,6 +18,8 @@ The [Live Script](./najafi_examples_with_matlab.mlx) provides examples of data q
 
 Instruction for obtaining the original data (at http://repository.cshl.edu/36980/) and the conversion of original data to NWB 2.0 format is described in detail [here](https://github.com/vathes/najafi-2018-nwb).
 
+Data in NWB 2.0 format are published by Cold Spring Harbor Laboratory, at repository: http://repository.cshl.edu/37693/
+
 The NWB 2.0 data should be placed in the working directory with path: 
 > ./data/FN_dataSharing/nwb
 
